@@ -61,7 +61,11 @@
     </ul>
   </div>
   <section class="home-section">
-      <div class="text">Dashboard</div>
+    <div class="text">Dashboard
+        <h1>KONTEN DISINI YA SU</h1>
+      
+    </div>
+</table>
   </section>
   <script>
   let sidebar = document.querySelector(".sidebar");
